@@ -1,0 +1,23 @@
+{
+  "name": "phpapp",
+  "version": "1.0.3",
+  "description": "databaseAPP",
+  "main": "login.php",
+  "scripts": {
+    "start": "run app"
+  },
+  "author": "Pawel Galkowski",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocksdevil/php-app.git"
+  },
+  "keywords": [
+    "PHP",
+    "MySQL"
+  ],
+  "bugs": {
+    "url": "https://github.com/rocksdevil/php-app/issues"
+  },
+  "homepage": "https://github.com/rocksdevil/php-app#readme"
+}
